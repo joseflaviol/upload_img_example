@@ -1,0 +1,1 @@
+A pasta imagens é onde as imagens serão salvas. Note que ela está vazia.
